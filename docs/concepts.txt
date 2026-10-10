@@ -1,0 +1,29 @@
+Community Blog Website - Basic Concepts
+
+1. Static vs. Dynamic Websites
+
+A static website displays predefined content.
+Its pages are usually written using HTML and CSS.
+A dynamic website can change its content based on user
+actions or data from a database.
+
+2. The Role of HTML, CSS, and JavaScript
+
+HTML defines the structure and content of a webpage,
+such as headings, paragraphs, images, and links.
+
+CSS controls the appearance of a webpage, including
+colors, fonts, spacing, and layout.
+
+JavaScript adds interactive features, such as buttons
+that respond to user actions.
+
+3. Purpose of Folder Organization
+
+Folder organization keeps project files organized.
+The images folder stores images and logos.
+The css folder stores stylesheets.
+The docs folder stores project documentation.
+
+Organizing files makes the project easier to manage,
+understand, and maintain.
