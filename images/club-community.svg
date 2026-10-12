@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Ideas in good company</title>
+  <desc id="desc">Three abstract people gather around a shared table.</desc>
+  <rect width="960" height="540" fill="#dcebe1"/>
+  <circle cx="785" cy="110" r="110" fill="#e4b45e" opacity=".8"/>
+  <path d="M0 402Q250 320 500 408T960 390V540H0Z" fill="#a9c9b7"/>
+  <rect x="226" y="345" width="510" height="28" rx="14" fill="#17443e"/>
+  <path d="M275 373v108m412-108v108" stroke="#17443e" stroke-width="22" stroke-linecap="round"/>
+  <circle cx="330" cy="210" r="55" fill="#d98462"/>
+  <path d="M238 335q5-95 92-95t92 95" fill="#477a6b"/>
+  <circle cx="490" cy="176" r="62" fill="#e4b45e"/>
+  <path d="M388 335q8-110 102-110t102 110" fill="#17443e"/>
+  <circle cx="650" cy="210" r="55" fill="#6b9d91"/>
+  <path d="M558 335q5-95 92-95t92 95" fill="#d98462"/>
+  <rect x="390" y="304" width="194" height="22" rx="11" fill="#f3f5f0"/>
+</svg>

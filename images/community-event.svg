@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">A community gathering</title>
+  <desc id="desc">A speaker shares an idea with a small audience.</desc>
+  <rect width="960" height="540" fill="#f2e5cc"/>
+  <path d="M0 0h960v340H0Z" fill="#f7eedf"/>
+  <rect x="120" y="80" width="720" height="250" rx="12" fill="#d7e7dd"/>
+  <circle cx="480" cy="205" r="88" fill="#e4b45e"/>
+  <path d="M451 179h58m-58 27h58m-58 27h36" stroke="#17443e" stroke-width="12" stroke-linecap="round"/>
+  <rect x="355" y="325" width="250" height="24" rx="12" fill="#17443e"/>
+  <path d="M397 349v86m166-86v86" stroke="#17443e" stroke-width="18" stroke-linecap="round"/>
+  <path d="M0 453q90-78 180 0t180 0t180 0t180 0t180 0t180 0v87H0Z" fill="#477a6b"/>
+  <circle cx="177" cy="405" r="35" fill="#d98462"/>
+  <circle cx="300" cy="427" r="35" fill="#e4b45e"/>
+  <circle cx="660" cy="427" r="35" fill="#d98462"/>
+  <circle cx="783" cy="405" r="35" fill="#e4b45e"/>
+  <path d="M116 516q8-77 61-77t61 77m1 24q8-77 61-77t61 77m299 0q8-77 61-77t61 77m1-24q8-77 61-77t61 77" fill="#17443e"/>
+</svg>

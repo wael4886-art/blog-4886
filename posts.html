@@ -3,36 +3,58 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tech Club | Home</title>
+    <title>Tech Club | Posts</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
     <header>
-        <h1>Welcome to Tech Club</h1>
+        <h1>Community Blog Posts</h1>
 
-        <nav>
+        <nav aria-label="Main navigation">
             <a href="index.html">Home</a>
-            <a href="posts.html">Posts</a>
+            <a href="posts.html" aria-current="page">Posts</a>
             <a href="contact.html">Contact</a>
         </nav>
     </header>
 
-    <main>
-        <h2>About Our Community</h2>
+    <main class="posts-grid">
+        <h2 class="page-title">Latest from our community</h2>
+        <article>
+            <figure>
+                <img src="images/club-community.svg" alt="Abstract illustration of three club members sharing ideas">
+                <figcaption>A welcoming space to share ideas and meet fellow makers.</figcaption>
+            </figure>
+            <h2>Welcome to Our Club</h2>
+            <p>
+                We are excited to share our ideas
+                and activities with the community.
+            </p>
+        </article>
 
-        <p>
-            Welcome to Tech Club, a community where
-            people share ideas, knowledge, and activities.
-        </p>
+        <article>
+            <figure>
+                <img src="images/community-event.svg" alt="Abstract illustration of a community event with a stage and audience">
+                <figcaption>Our first gathering brought members together.</figcaption>
+            </figure>
+            <h2>Our First Community Event</h2>
+            <p>
+                Our club organized an event to bring
+                members together and share knowledge.
+            </p>
+        </article>
 
-        <h2>Our Goals</h2>
-
-        <ul>
-            <li>Share knowledge</li>
-            <li>Organize community events</li>
-            <li>Connect club members</li>
-        </ul>
+        <article>
+            <figure>
+                <img src="images/learning-together.svg" alt="Abstract illustration of a person learning at a laptop">
+                <figcaption>Curiosity grows when we learn side by side.</figcaption>
+            </figure>
+            <h2>Learning Together</h2>
+            <p>
+                Members can learn new skills and
+                exchange useful information.
+            </p>
+        </article>
     </main>
 
     <footer>

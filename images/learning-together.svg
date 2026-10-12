@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Learning together</title>
+  <desc id="desc">A learner works at a laptop beside a stack of books.</desc>
+  <rect width="960" height="540" fill="#e2eceb"/>
+  <circle cx="760" cy="140" r="94" fill="#e4b45e" opacity=".85"/>
+  <path d="M0 416q225-60 480 0t480 0v124H0Z" fill="#b5d0c9"/>
+  <rect x="540" y="170" width="258" height="176" rx="14" fill="#17443e"/>
+  <rect x="557" y="188" width="224" height="136" rx="5" fill="#f3f5f0"/>
+  <path d="M590 224h154m-154 28h114m-114 28h135" stroke="#6b9d91" stroke-width="12" stroke-linecap="round"/>
+  <path d="M514 351h311l34 28H480Z" fill="#477a6b"/>
+  <circle cx="365" cy="176" r="67" fill="#d98462"/>
+  <path d="M255 375q8-130 110-130t110 130" fill="#17443e"/>
+  <path d="M298 286q67 45 134 0" fill="none" stroke="#e4b45e" stroke-width="16" stroke-linecap="round"/>
+  <rect x="138" y="394" width="170" height="28" rx="5" fill="#e4b45e"/>
+  <rect x="155" y="360" width="153" height="28" rx="5" fill="#d98462"/>
+  <rect x="174" y="326" width="134" height="28" rx="5" fill="#477a6b"/>
+</svg>
